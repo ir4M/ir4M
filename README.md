@@ -1,19 +1,17 @@
-# Hi, ich bin Marik :raising_hand_man:
+# Hi, I am Marik 🙋‍♂️
 
-## :technologist: Über mich
+## 🧑‍💻 About Me
 
-Ich bin ein Programmieranfänger und arbeite aktuell auch nicht in der IT-Branche. Habe aber das Ziel in Zukunft ohne Studium einen Job als Front-End Developer zu 
-bekommen. 
+Programming newbie trying to learn web development topics in my free time. And I am going to build a portfolio of different projects the next months to grow as a web developer.
 
-Daher möchte ich GitHub bzw. GitHub Pages als Plattform nutzen, um anfangs in verschiedenen Blog-Artikeln meine Herangehensweise und Lernmethoden mit 
-euch zu teilen. Später, mit steigendem Skill-Level, werde ich hier zum Aufbau eines eigenen Code Portfolios kleinere Webprojekte veröffentlichen.
+My first project was to setup a blog with Jekyll and GitHub Pages. The main purpose of the blog is to track and share my learning progress. I personally find it difficult to keep track of the right topics and where to start, because they are like hundred different frameworks, tools, static site generators and other components out there related to web development. Beside basic stuff just like HTML, CSS, JavaScript or version control systems like Git.
 
-Neben dem Webentwicklungs-Content werde ich auch über andere Themen schreiben. Alles rund um Themen wie Digitalen Minimalismus, Gewohnheitsbildungen, Lernerfolg, 
-Produktivität und Fokus. Außerdem liebe ich Fußball :heart::soccer:
+So on the way from absolute beginner to a more skilled front-end developer, I want to use the blog to share my approach how I dealt with different issues to maybe help other people with similiar problems on their way.
 
-- 👋 Hi, I’m @ir4M
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
----
+Next to that I also like topics like digital minimalism, habit formation, learning techniques and increased productivity. And of course I love football ❤️⚽
+
+## 🧰 Toolbox
+
+## 👩‍🏫 Currently Learning
+
+## 📑 Latest Blog Articles
