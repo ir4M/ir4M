@@ -41,6 +41,7 @@ Next to that I also like topics like digital minimalism, habit formation, learni
 ## 📑 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Welcome to Jekyll!](/jekyll/update/2021/08/17/welcome-to-jekyll.html)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://ir4m.github.io/)
