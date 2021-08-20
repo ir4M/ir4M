@@ -39,3 +39,8 @@ Next to that I also like topics like digital minimalism, habit formation, learni
 | Professionell entwickeln mit JavaScript (GERMAN) | ❌                                  | 0            | 648             | Philip Ackermann           |
 
 ## 📑 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://ir4m.github.io/)
