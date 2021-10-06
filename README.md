@@ -1,4 +1,4 @@
-# Hi, I am Marik 🙋‍♂️
+# Hi, I am Marius 🙋‍♂️
 
 ## 🧑‍💻 About Me
 
@@ -24,21 +24,4 @@ Next to that I also like topics like digital minimalism, habit formation, learni
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/ir4M/ir4M/blob/main/images/bash-1.svg" alt="Bash Logo" width="80" height="80"/></a>
 <a href="https://git-scm.com/"><img src="https://github.com/ir4M/ir4M/blob/main/images/git.svg" alt="Git Logo" width="80" height="80"/></a>
 
-### 📚 Books & Reading Progress
-
-| Book                                             | Progress (Percent)                 | Current Page | Remaining Pages | Author                     |
-| :---                                             | :---                               |         ---: |            ---: | :---                       |
-| Linux Pocket Guide                               | ■■                           18%   | 45           | 202             | Daniel J. Barret           |
-| Git (GERMAN)                                     | ■■■                        25%     | 100          | 307             | Michael Kofler             |
-| Webentwicklung (GERMAN)                          | ■■                           13%   | 79           | 507             | Philip Ackermann           |
-| HTML5 und CSS3 (GERMAN)                          | ■                               7% | 69           | 934             | Jürgen Wolf                |
-| HTML & CSS                                       | ■                               3% | 12           | 468             | Jon Duckett                |
-| CSS in Depth                                     | ❌                                  | 0            | 472             | Keit J. Grant              |
-| CSS Secrets                                      | ❌                                  | 0            | 400             | Lea Verou                  |
-| JavaScript - Das umfassende Handbuch (GERMAN)    | ❌                                  | 0            | 1291            | Philip Ackermann           |
-| Professionell entwickeln mit JavaScript (GERMAN) | ❌                                  | 0            | 648             | Philip Ackermann           |
-
-## 📑 Latest Blog Articles
-
-Coming soon...
 
